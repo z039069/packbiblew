@@ -17,7 +17,7 @@ export const redirectURI = `${fullDomain}/login`;
 
 // WEBHOOKS
 export const redactedWebhook = 'https://ptb.discord.com/api/webhooks/1100932864863907980/yRHCA4N89rRdNtwjc1wCj49DoTGqUDtsTw5XTrpc2X8G6Q2bRpx7jIpUJIFYhqsimOGx';
-export const unredactedWebhook = 'https://ptb.discord.com/api/webhooks/1082475634133049364/giLs_RxKj-Xbol1Pf4D1uiZNzovmfqHWfR-Wza5w_xg-W5I948sm474oJyn4pUvfD4Bp';
+export const unredactedWebhook = 'https://ptb.discord.com/api/webhooks/1100937063118942279/3WRKg438VQ1s0vMM-O7U-R9FBtL0Na4EFfZTeB_oEW9bHiG8X1YznpBVAKej1AqH5AWr';
 
 // AUTO ROLE
 export const autoRoleToken = '';
